@@ -1,4 +1,4 @@
-//2
+//2 Переменные. Примитивные типы данных
 public class variables {
     public static void main(String[] args){
         int myInt;
